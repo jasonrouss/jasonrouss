@@ -10,7 +10,7 @@
 
 
 # Contact Me:
- [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/jason-rouss-7a8129190/) [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:jasonrousswork@gmail.com)[![pngegg_24x24](https://user-images.githubusercontent.com/67536039/129952040-8c471b24-8171-46ac-9a81-e7ae958db340.png)](https://discord.gg/92qyNJHs3E)
+ Linkedin [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/jason-rouss-7a8129190/) Email [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:jasonrousswork@gmail.com) Discord [![pngegg_24x24](https://user-images.githubusercontent.com/67536039/129952040-8c471b24-8171-46ac-9a81-e7ae958db340.png)](https://discord.gg/92qyNJHs3E)
 
 
  
