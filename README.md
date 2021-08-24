@@ -8,7 +8,7 @@
 ### :handshake: Always looking forward to work on projects
 ### :brain: Nodejs <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  React<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">JavasScript  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Python <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">Java <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 ### :tada: Hobbies and intrests: Gaming :video_game: Camping :camping: Hiking :mountain: Scouts :fleur_de_lis: Food Lover :cookie:
-### :dart: Goals: Improving myslef by always being up to date with the latest technologies and contributing to awesome projects
+### :dart: Goals: Improving myself by always being up to date with the latest technologies and contributing to awesome projects
 ### :muscle: What am I doing right now ? Learning react and material-ui
 
 # Contact Me:
